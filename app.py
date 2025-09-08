@@ -62,7 +62,7 @@ def generate_content_brief(
 # --- Streamlit App UI ---
 st.set_page_config(page_title="Content Brief Generator", layout="wide")
 
-st.title("📝 Content Brief Generator")
+st.title("📝 Briefium-Generatus")
 st.markdown(
     "This tool helps you create a detailed content brief for your website using AI. Fill in the details below to generate your brief."
 )
